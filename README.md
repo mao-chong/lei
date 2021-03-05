@@ -26,4 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
-## Description personnel
+## Description personnel démonstration de LEI
+
+Avant de start mon projet, il vous faut installer tous les modules nécéssarie avec npm install. Et dans mon projet, j'ai mis le backend en NodeJS-Express dans le dossier de backend, dedans il y a des routes det des paramètres de mon database. Paralèllement, j'ai aussi fait les fonctions prinipales pour un web site comme sign up et login, télécharger et upload des photos et des infos de backend, bien sûr tous les opération de data comme ajouter, modifier, supprimer et obtenir des infos. J'ai aussi intégré le Angular matériel pour donner les meilleur expériences des utilisateurs Je souhait que mon projet vous plaise bien et cordialement
+
